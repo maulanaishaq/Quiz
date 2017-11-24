@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FinalProject_IAK</string>
+    <string name="quiz_android_studio_pemula">Quiz Android Studio Pemula</string>
+    <string name="_1_menggunakan_bahasa_pemrograman_apakah_android_itu">1. Menggunakan bahasa pemrograman apakah android itu?</string>
+    <string name="java">Java</string>
+    <string name="swift">Swift</string>
+    <string name="_2_tipe_data_apa_saja_yang_ada_di_ada_di_android_studio">2. Tipe data apa saja yang ada di ada di android studio?</string>
+    <string name="string">String</string>
+    <string name="integer">Integer</string>
+    <string name="Float">float</string>
+    <string name="dolar">$</string>
+    <string name="_3_aplikasi_manakah_yang_bisa_digunakan_untuk_pemrograman_android">3. Aplikasi manakah yang bisa digunakan untuk pemrograman android?</string>
+    <string name="android_sudio">Android Sudio</string>
+    <string name="mysql">Mysql</string>
+    <string name="notepad">Notepad++</string>
+    <string name="_4_apa_nama_widget_dari_gambar_ini">4. Apa nama widget dari gambar ini?</string>
+    <string name="_5_apa_nama_widget_dari_gambar_ini">5. Apa nama widget dari gambar ini?</string>
+    <string name="lihat_hasil_disini">Lihat Hasil Disini</string>
+    <string name="_6_siapakah_pencipta_android">6. Siapakah pencipta android?</string>
+
+</resources>
